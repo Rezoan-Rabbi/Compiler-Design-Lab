@@ -1,9 +1,6 @@
-name is a valid identifier.
-_id is a valid identifier.
-1value is NOT a valid identifier.
-data123 is a valid identifier.
-user_name is a valid identifier.
-for is a valid identifier.
-helloWorld is a valid identifier.
-9abc is NOT a valid identifier.
-_temp is a valid identifier.
+hello
+1
+you
+>
+rabbi
+22-48925-3
